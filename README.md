@@ -31,3 +31,14 @@ host-specific. This repo holds only the program itself.
 
 Normally through the "Xbox 360 Dashboard" login session that nixos-config sets up. For
 working on the QML with hot reload, see `CLAUDE.md`.
+
+## License and trademarks
+
+The code in this repository (QML, JavaScript, GLSL and Python) is licensed under the
+**GNU General Public License v3.0 or later** — see `LICENSE`.
+
+This is an unofficial fan recreation, not affiliated with or endorsed by Microsoft.
+"Xbox", "Xbox 360" and "Xbox LIVE" are trademarks of Microsoft Corporation; the license
+above covers only this project's own code and grants no rights in those marks. The
+Convection font and the dashboard sounds are Microsoft's, are **not** included here, and
+are not covered by this license.
