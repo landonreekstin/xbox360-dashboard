@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/SidePanel.qml
+// xbox360-dashboard/shell/SidePanel.qml
 // A blade that slides in from one side over everything, the way the console's
 // Guide (from the left, guide.png) and notification blade (from the right,
 // notification.png) do, dimming the rest of the screen. Its surface is the

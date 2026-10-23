@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/BladeTab.qml
+// xbox360-dashboard/shell/BladeTab.qml
 // One blade band, as on the console: a full-height curved band, silver when
 // collapsed and the blade's own colour when it is the open blade's, with a
 // darker label box on its inner side — a rounded top corner, an S-step back

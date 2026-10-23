@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Jellyfin.qml
+// xbox360-dashboard/shell/Jellyfin.qml
 // The Videos library's Jellyfin client: sign-in and the API.
 //
 // Sign-in is Quick Connect, because a couch has no keyboard: the shell asks

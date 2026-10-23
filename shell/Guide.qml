@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Guide.qml
+// xbox360-dashboard/shell/Guide.qml
 // The Guide, as the 2005 console had it (guide.png): a blade from the LEFT
 // over whatever is running, the rest dimmed — not the later centre box. It
 // opens with a tap of the Guide button (or SUPER+Space).

@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/BladeSurface.qml
+// xbox360-dashboard/shell/BladeSurface.qml
 // The blade's painted surface (blade.frag): gradient, bands, card, sheen,
 // ripples, gloss.
 import QtQuick

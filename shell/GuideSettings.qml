@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/GuideSettings.qml
+// xbox360-dashboard/shell/GuideSettings.qml
 // The Guide's Console Settings list: where century-series' waybar widgets live
 // in this session. Each row is one of the SAME widget scripts waybar runs
 // (read from the merged waybar config by session.nix, Config.widgets), shown

@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/NotificationBlade.qml
+// xbox360-dashboard/shell/NotificationBlade.qml
 // The console's notification blade (notification.png): a blade from the
 // RIGHT, the rest dimmed, with an icon and title in the header, the message
 // in the card, and its choices as rows underneath — "Yes, update now" / "No,

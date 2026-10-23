@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Notifications.qml
+// xbox360-dashboard/shell/Notifications.qml
 // The session's notification daemon (org.freedesktop.Notifications). Every
 // notification pops a 360-style toast at the bottom of the screen with the
 // console's notification chime; they are kept, newest first, for the Guide's

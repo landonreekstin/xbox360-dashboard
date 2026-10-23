@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Keyboard.qml
+// xbox360-dashboard/shell/Keyboard.qml
 // The console's on-screen keyboard (Captures/xbox360-examples/keyboard.png): a
 // silver panel from the left with the letter grid, the digit block, Cursor /
 // Symbols / Caps down the left, Cursor / Accents / Done down the right, and

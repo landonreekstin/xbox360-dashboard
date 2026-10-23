@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/MenuRow.qml
+// xbox360-dashboard/shell/MenuRow.qml
 // One menu row as on the console: an icon, the label in the blade's dark ink,
 // a thin rule underneath in the blade's rule colour, and — when it is the
 // highlighted row — a white wash brightest at the left that fades out to the

@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Displays.qml
+// xbox360-dashboard/shell/Displays.qml
 // The displays, for Guide -> Displays: each configured monitor, whether it is
 // on, which one has focus, and turning one on or off.
 //

@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/BladeBands.qml
+// xbox360-dashboard/shell/BladeBands.qml
 // What sits in the panel's header and footer bands, as on the console:
 // the title on the left of the header and the clock on its right; the footer
 // is the button legend — Y over X on the left, B over A on the right — saying

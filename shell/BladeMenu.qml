@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/BladeMenu.qml
+// xbox360-dashboard/shell/BladeMenu.qml
 // One blade's menu, laid out like the console's (Captures/xbox360-examples,
 // dashboard-*-blade.png): the gamer card at the top left, the menu rows below
 // it, the blade's logo top right and the highlighted row's description beside

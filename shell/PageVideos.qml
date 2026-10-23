@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/PageVideos.qml
+// xbox360-dashboard/shell/PageVideos.qml
 // Media -> Videos: the Jellyfin library, in the console's list-and-details
 // layout (games-submenu.png). Tabs across the top (LB/RB): Continue Watching,
 // Next Up, then each of the server's movie and show libraries. A on a movie or

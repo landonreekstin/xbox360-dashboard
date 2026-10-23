@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Games.qml
+// xbox360-dashboard/shell/Games.qml
 // Every installed game (Steam and Heroic), newest-played first, from the
 // generated scanner (Config.gamesCmd, pad/xbox360-games.py). Loaded at start
 // and refreshed whenever the Games Library opens.

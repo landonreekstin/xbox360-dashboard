@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/GamerCard.qml
+// xbox360-dashboard/shell/GamerCard.qml
 // The gamer card at the top of every blade: the gamertag on a gold strip,
 // then the gamerpic beside Rep stars, Gamerscore and Zone, on a translucent
 // light card — the console's own layout (dashboard-games-blade.png).

@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/ShellState.qml
+// xbox360-dashboard/shell/ShellState.qml
 // Everything the dashboard remembers, shared by every screen's frame, the
 // dashboard menus and (later) the Guide and the controller.
 //

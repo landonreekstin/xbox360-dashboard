@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/PageUpdates.qml
+// xbox360-dashboard/shell/PageUpdates.qml
 // Marketplace -> System Update: where this console's configuration stands —
 // the branch and commit it is on, how far behind main it is, when it was last
 // rebuilt, and the weekly flake-update PR (which merges itself on Mondays) —

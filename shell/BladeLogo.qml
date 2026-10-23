@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/BladeLogo.qml
+// xbox360-dashboard/shell/BladeLogo.qml
 // The art at the top right of a blade: a silver orb beside a wordmark,
 // "XBOX LIVE" on the Xbox LIVE blade and "XBOX 360" elsewhere. Drawn, not an
 // image, so it takes the blade's light like the rest of the panel.

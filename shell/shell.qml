@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/shell.qml
+// xbox360-dashboard/shell/shell.qml
 // Xbox 360 "Blades" dashboard shell, started by the xbox360 Hyprland session
 // as `qs -c xbox360`. Every screen gets a Frame, and with it its own
 // dashboard (workspace name:dashboard-<connector>). Shared state lives in

@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/LoadingRing.qml
+// xbox360-dashboard/shell/LoadingRing.qml
 // The console's "please wait" ring: a silver ring with a bright green arc of
 // light chasing round it.
 import QtQuick

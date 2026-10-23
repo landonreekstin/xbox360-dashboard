@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Dash.qml
+// xbox360-dashboard/shell/Dash.qml
 // One display's dashboard: which blade is open, the highlighted row on each,
 // a page opened over it, and the app last used on that display (what its
 // "Resume" goes back to). ShellState keeps one per monitor name

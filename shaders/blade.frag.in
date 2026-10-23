@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/blade.frag.in
+// xbox360-dashboard/shaders/blade.frag.in
 // The blade surface: the open section's radial gradient, its header and footer
 // bands around a rounded content card, the card's concentric sheen and two
 // slow ripple rings, and the top-down gloss. The gradient covers the whole

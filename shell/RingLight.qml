@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/RingLight.qml
+// xbox360-dashboard/shell/RingLight.qml
 // The controller's ring of light, in every frame's header beside the clock:
 // four quarters round a silver ring, the top-left one lit green (player 1)
 // on the display that has focus, all of them dark on the others. Arriving

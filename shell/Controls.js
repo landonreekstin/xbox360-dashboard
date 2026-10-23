@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Controls.js
+// xbox360-dashboard/shell/Controls.js
 // What every controller button does, for the Guide's Controls page: one
 // section per place the pad behaves differently. Each bind is
 // { btns: [...], label }: button names, joined by "+" (press together, a

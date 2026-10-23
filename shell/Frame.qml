@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Frame.qml
+// xbox360-dashboard/shell/Frame.qml
 // Everything one screen shows, in one of three modes:
 //   blades — this display's dashboard (workspace name:dashboard-<connector>):
 //            the five bands around the open blade, whose menu DashboardMenu

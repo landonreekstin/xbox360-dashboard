@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/ButtonGlyph.qml
+// xbox360-dashboard/shell/ButtonGlyph.qml
 // A controller button as the console draws it in its legends: a glossy
 // sphere in the button's physical colour (light at the top, dark at the
 // bottom, a blurred highlight) with its letter; the Guide button as the

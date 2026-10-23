@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/LockScreen.qml
+// xbox360-dashboard/shell/LockScreen.qml
 // The session lock, as the console's profile sign-in: a full-screen silver
 // frame titled "Sign In" with the gamer card, and the account password to get
 // back in (checked by PAM through the same `swaylock` service the default

@@ -1,4 +1,4 @@
-# ~/nixos-config/modules/home-manager/themes/xbox360/pad/xbox360-audio.py
+# xbox360-dashboard/pad/xbox360-audio.py
 # Guide -> Audio: switches the output AND the microphone together, between the
 # host's audioDevices (session.nix writes them to the JSON file in argv[1]).
 #

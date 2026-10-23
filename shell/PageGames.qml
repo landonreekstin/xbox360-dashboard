@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/PageGames.qml
+// xbox360-dashboard/shell/PageGames.qml
 // Games -> Games Library, laid out like the console's "My Games"
 // (games-submenu.png): a strip of filter tabs across the top (LB/RB), the
 // games on the left with their icons, a screenful at a time ("1 of 7"), and

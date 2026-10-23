@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Audio.qml
+// xbox360-dashboard/shell/Audio.qml
 // The sound devices, for Guide -> Audio: the host's audioDevices (Speakers,
 // Headphones, TV, Headset...), which are plugged in, which is in use, and
 // switching — output and microphone together — through Config.audioCmd

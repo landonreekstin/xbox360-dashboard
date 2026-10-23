@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/PageDownloads.qml
+// xbox360-dashboard/shell/PageDownloads.qml
 // Marketplace -> Downloads: the NAS's torrents, laid out like the console's
 // "My Games" page (games-submenu.png) — a list on the left with a progress
 // bar per row, the highlighted download's details in a box on the right.

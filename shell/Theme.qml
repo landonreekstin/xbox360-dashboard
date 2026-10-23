@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Theme.qml
+// xbox360-dashboard/shell/Theme.qml
 // Day or night: which palette the shell paints with. colors.nix makes both
 // under the same keys (Config.blades / Config.bladesNight, ...), so a consumer
 // reads Theme.blades where it used to read Config.blades and never needs to

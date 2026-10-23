@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Toast.qml
+// xbox360-dashboard/shell/Toast.qml
 // The console's toast: a dark glass pill rising at the bottom centre of the
 // screen with the Xbox ring of light and two lines of text, gone after a few
 // seconds. Never takes input; shows over everything, games included.

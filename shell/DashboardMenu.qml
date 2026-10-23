@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/DashboardMenu.qml
+// xbox360-dashboard/shell/DashboardMenu.qml
 // A display's dashboard, the interactive part: the open blade's menu (or a
 // page opened from it), drawn over the Frame's card on a TOP-layer window.
 // Its input mask is the card alone, so the bands drawn on the background

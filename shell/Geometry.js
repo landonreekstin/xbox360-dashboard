@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/home-manager/themes/xbox360/shell/Geometry.js
+// xbox360-dashboard/shell/Geometry.js
 // Blade geometry, on the console's reference frame: 1280x720 on a 16:9 screen.
 //
 // One uniform scale `s` (px per reference unit) maps it to the screen, chosen
