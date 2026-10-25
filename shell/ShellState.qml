@@ -120,7 +120,9 @@ Singleton {
         const n = freeWorkspace();
         setMeta(n, { title: title, blade: bladeIndex, seen: false });
         Hyprland.dispatch("workspace " + n);
-        Quickshell.execDetached(["sh", "-c", cmd]);
+        // Cfg.launch (nixos-config) gives the app its own systemd scope, so it outlives
+        // this shell: the shell's scope stops with the desktop on a live switch.
+        Quickshell.execDetached((Cfg.launch || ["sh", "-c"]).concat([cmd]));
     }
 
     // The program a command runs, as a window class would name it: "discord",
